@@ -1,4 +1,6 @@
 #> anywhere:define
+### Copyright © 2021 赤石愛
+### This software is released under the MIT License, see LICENSE.
 
 ## データ構造
 #define storage anywhere:
